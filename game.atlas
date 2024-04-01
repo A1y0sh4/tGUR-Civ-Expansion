@@ -1,0 +1,27 @@
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+
+NationIcons/Aleksandria
+  rotate: false
+  xy: 4, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Katorga
+  rotate: false
+  xy: 112, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Comrade
+  rotate: false
+  xy: 220, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
