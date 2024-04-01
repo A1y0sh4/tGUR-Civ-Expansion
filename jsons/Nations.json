@@ -26,8 +26,8 @@
 	  
 	"favoredReligion": "Orthodoxy",
 
-	"outerColor": [255, 255, 255],
-	"innerColor": [178, 139, 0],
+	"outerColor": [200, 0, 0],
+	"innerColor": [255, 200, 0],
 
 	"uniqueName": "Pearl of the North",
 	"uniques": ["[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[-25]% construction time for [All] improvements <within [1] tiles of a [Tundra]>"],
