@@ -5,7 +5,7 @@
 		"uniqueTo":"Aleksandria",
 		"production": 2,
 		"happiness": 1,
-		"cost": 110,
+		"cost": 100,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
