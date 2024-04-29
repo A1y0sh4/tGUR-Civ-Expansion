@@ -1,3 +1,8 @@
 # tGUR-Civ-Expansion
-New civs:
+Fictional civs:
 - Aleksandria (A1y0sh4)
+
+Historical civs:
+-Soviet Union
+-The Confederate States
+-The Philippines
