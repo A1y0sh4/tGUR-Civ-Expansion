@@ -14,6 +14,20 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Halberdier",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "Demolis",
+		"movement": 2,
+		"strength": 15,
+		"cost": 50,
+		"requiredTech": "Civil Service",
+		"uniques": ["Can move immediately once bought", "[-75]% maintenance costs"],
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Katipunero",
                 "replaces": "Musketman",
 		"uniqueTo": "The Philippines",
