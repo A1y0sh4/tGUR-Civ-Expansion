@@ -55,7 +55,7 @@
 	"tradeRequest": "Here's a fair trade for you:",
 
 	"outerColor": [255, 215, 0],
-	"innerColor": [39, 33, 60],
+	"innerColor": [106, 62, 49],
 
 	"uniqueName": "Maximum efficiency",
 	"uniques": ["[+35]% growth [in all cities] <when below [0] Happiness>", "[+35]% [Production] [in all cities] <when below [-10] Happiness>", "[+18]% Strength <for [All] units> <when below [-10] Happiness>"],
