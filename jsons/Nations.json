@@ -58,7 +58,7 @@
 	"innerColor": [106, 62, 49],
 
 	"uniqueName": "Maximum efficiency",
-	"uniques": ["[+35]% growth [in all cities] <when below [0] Happiness>", "[+35]% [Production] [in all cities] <when below [-10] Happiness>", "[+18]% Strength <for [All] units> <when below [-10] Happiness>"],
+	"uniques": ["[+40]% growth [in all cities] <when below [0] Happiness>", "[+40]% [Production] [in all cities] <when below [-10] Happiness>", "[+23]% Strength <for [All] units> <when below [-10] Happiness>"],
 	"cities": ["Doubloon City","Coin city","Penny city","Quarter city","Cash city","Gold city","Dollar city","Rubl' city","Euro city","Crown city","Pound city","Yuan city","Yen city","Money city","Rich city"]
 },
 	{
