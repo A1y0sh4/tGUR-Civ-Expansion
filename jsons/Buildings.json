@@ -15,6 +15,18 @@
 		"uniques": ["[+1 Culture, +1 Science] [in this city] <within [1] tiles of a [Tundra]>"]
 	},
 	{
+		"name": "Advanced Infrastructure",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Demolis",
+		"cost": 110,
+		"food": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"requiredBuilding": "Granary",
+		"uniques": ["[+1 Food, +1 Production] [in capital]"],
+		"requiredTech": "Engineering"
+	},
+	{
 		"name": "Bahay Kubo",
                 "replaces": "Granary",
 		"uniqueTo": "The Philippines", 
