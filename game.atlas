@@ -88,3 +88,24 @@ UnitIcons/Red Guard
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Demolis
+  rotate: false
+  xy: 328, 580
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Halberdier
+  rotate: false
+  xy: 652, 688
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Advanced Project
+  rotate: false
+  xy: 1820, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
