@@ -14,12 +14,12 @@
 	"defeated": "I know nothing about what I ignore - I'm aware of it -\nyet still my latest realization burns my soul almost as much,\nin pride, I have burnt till now.",
 	"introduction": "Zdravstvuyte! I am A1y0sh4, great emperor of our glorious Motherland,\nbut you can call me Alyosha.",
 	"neutralHello": "Zdravstvuyte.",
-	"neutralLetsHearIt":["What shall we discuss now?","Interesting..."],
-	"neutralYes":["Our people are eager to accept.","So be it."],
-	"neutralNo":["I must respectfully decline.","I'm sorry, but currently we are not in the conditions to accept."],
-	"hateLetsHearIt":["Have you come here to negotiate your surrender?","Apparently you're either brave or mad enough to show up here...\nImpressive!"],
-	"hateNo":["I'm afraid not to be appreciating enough your subtle humor.","Please, spare me to hear such nonsense."],
-	"hateYes":["I see with great hope that we can find common ground even in such unfavourable circumstances."],
+	"neutralLetsHearIt":"What shall we discuss now?","Interesting...",
+	"neutralYes":"Our people are eager to accept.","So be it.",
+	"neutralNo":"I must respectfully decline.","I'm sorry, but currently we are not in the conditions to accept.",
+	"hateLetsHearIt":"Have you come here to negotiate your surrender?","Apparently you're either brave or mad enough to show up here...\nImpressive!",
+	"hateNo":"I'm afraid not to be appreciating enough your subtle humor.","Please, spare me to hear such nonsense.",
+	"hateYes":"I see with great hope that we can find common ground even in such unfavourable circumstances.",
 	"afterPeace":"I must admit your military genius astonished me.\nConsider yourself honored by my most sincere respect.",
 	"hateHello": "Why are you still on this side of the Acheron?",
 	"tradeRequest": "Some believe that trade is the engine of the world.\nWould you like to move it in this direction?",
@@ -35,6 +35,31 @@
 		"Tovarivsk","Pobedigrad","Zimnygrad","Knyazinsk","Aleksisburg","Velikoye","Novi Aleksandria","kholodnisburg","Lyoshagrad","Svyatograd","Rekasburg","Veliksandria",
 		"Veragrad","Morozburg","Medvedkar"],
 	"spyNames": ["Irina", "Vera", "Yelizaveta", "Yaroslav", "Nikita", "Yevgeny", "Denis", "Maksim", "Aleksandra", "Adelina"]
+},
+	{
+"name": "Demolis",
+"leaderName": "FastDoubloon115",
+"adjective": ["Demolis"],
+"startBias": ["Coast"],
+"preferredVictoryType": "Domination",
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+	
+	"declaringWar": "You must be destroyed!",
+	"attacked": "How foolish must you be to dare attack me?",
+	"defeated": "Victory is yours...",
+	"introduction": "Greetings, I am FastDoubloon115, leader of Demolis. Get ready to be demolished soon.",
+	"neutralHello": "Hi.",
+	"hateHello": "Go away",
+	"tradeRequest": "Here's a fair trade for you:",
+
+	"outerColor": [255, 215, 0],
+	"innerColor": [20, 17, 15],
+
+	"uniqueName": "Maximum efficiency",
+	"uniques": ["[+50]% growth [in all cities] <when below [0] Happiness>", "[+50]% [Production] [in all cities] <when below [-10] Happiness>", "[+18]% Strength <for [All] units> <when below [-10] Happiness>"],
+	"cities": ["Doubloon City","Coin city","Penny city","Quarter city","Cash city","Gold city","Dollar city","Rubl' city","Euro city","Crown city","Pound city","Yuan city","Yen city","Money city","Rich city"]
 },
 	{
 		"name": "The Confederate States",
