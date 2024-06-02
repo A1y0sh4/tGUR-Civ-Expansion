@@ -4,7 +4,6 @@
 		"replaces": "Workshop",
 		"uniqueTo":"Aleksandria",
 		"production": 2,
-		"happiness": 1,
 		"cost": 110,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
@@ -12,7 +11,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
-		"uniques": ["[+1 Culture, +1 Science] [in this city] <within [1] tiles of a [Tundra]>"]
+		"uniques": ["[-10]% Unhappiness from [Population] [in this city]", "[+1 Production] [in all cities] <within [1] tiles of a [Tundra]>"]
 	},
 	{
 		"name": "Advanced Infrastructure",
