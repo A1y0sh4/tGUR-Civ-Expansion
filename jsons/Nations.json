@@ -128,6 +128,7 @@
 		"adjective": ["Soviet"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Lenin",
 	
 	        "startIntroPart1": "",
 		"startIntroPart2": "",
@@ -135,8 +136,8 @@
 		"declaringWar": "Proletarians of all countries, revolt against your oppressors!",
 		"attacked": "You cannot suffocate this revolution.",
 		"defeated": "You may have defeated our forces, but you'll never bend our ideals in favour of your exploitation.",
-		"introduction": "Greetings, I am Lenin, leader of the communist revolution. I hope you will join soon our cause, in a way or in the other.",
-		"neutralHello": "Privet!",
+		"introduction": "Greetings, I am Lenin, leader of the communist revolution. I hope you will join soon our cause, in either one way or in another.",
+		"neutralHello": "Privet.",
 		"hateHello": "What do you need?!",
 		"tradeRequest": "In the name of the revolution, here is a fair offer:",
 		"favoredReligion": "Orthodoxy",
