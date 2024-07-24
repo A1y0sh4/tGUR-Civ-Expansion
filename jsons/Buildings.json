@@ -17,7 +17,7 @@
 		"name": "Advanced Infrastructure",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Demolis",
-		"cost": 110,
+		"cost": 90,
 		"food": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 0,
@@ -67,6 +67,6 @@
 		"hurryCostModifier": 25,
 		"faith": 2,
 		"uniques": ["[Faith] cost of purchasing items in cities [-5]%", "Destroyed when the city is captured"]
-		"requiredTech": "Philosophy"
+		"requiredTech": "Spirituality"
 	},
 ]
