@@ -60,6 +60,7 @@
 	"innerColor": [106, 62, 49],
 
 	"uniqueName": "Maximum efficiency",
+	"uniqueText": "All maluses from unhappiness (growth, production and strength) are reduced to -10%",
 	"uniques": ["[+40]% growth [in all cities] <when below [0] Happiness>", "[+40]% [Production] [in all cities] <when below [-10] Happiness>", "[+23]% Strength <for [All] units> <when below [-10] Happiness>"],
 	"cities": ["Doubloon City","Coin city","Penny city","Quarter city","Cash city","Gold city","Dollar city","Rubl' city","Euro city","Crown city","Pound city","Yuan city","Yen city","Money city","Rich city"]
 },
@@ -86,7 +87,8 @@
         "innerColor": [246, 68, 65],
 
 		"uniqueName": "Slave States",
-		"uniques": ["[-33]% unhappiness from the number of cities", "[+1 Food, +1 Gold] from every [Plantation]", "[+10]% Unhappiness from [Population] [in all cities] <within [3] tiles of a [Plantation]>"], 
+		"uniqueText": "Plantations yield an additional +1 [Food], +1 [Gold] and +1 [Faith]\nCities within 2 tiles of a plantation suffer from 10% more unhappiness from population",
+		"uniques": ["[+1 Food, +1 Gold, +1 Faith] from every [Plantation]", "[+10]% Unhappiness from [Population] [in all cities] <within [2] tiles of a [Plantation]>"], 
 		"cities": ["Richmond","Atlanta","New Orleans","Charleston","Austin","Nashville","Mobile","Memphis","Savannah","Montgomery",
 			"Vicksburg","Chattanooga","Wilmington","Columbus","Jackson","Tallahassee","Petersburg","Galveston","Knoxville",
 			"Meridian","Shreveport","Alexandria","Macon","Selma","Little Rock","Greensboro","Augusta","Murfreesboro"]
@@ -116,6 +118,7 @@
 		"innerColor": [219, 82, 21],
 		
 		"uniqueName": "Pearl of the Orient Seas",
+		"uniqueText": "Coast tiles yield an additional +1 [Culture] during a Golden Age and during We Love The King Day (cumulative bonus)",
 		"uniques": ["[+1 Culture] from every [Coast] <during a Golden Age>", "[+1 Culture] from every [Coast] <during We Love The King Day>"],
 		"cities": ["Manila","Quezon City","Boracay","Cebú","Puerto Princesa","El Nido","Bohol","Davao","Baguio","Siargao","Corón","Tagaytay","Makati","Taguig","Dumaguete","Bacólod","Puerto Galera","Sagada","Laoag","Zamboanga"]
 	},
@@ -142,6 +145,7 @@
 		"innerColor": [248,215,12],
 		
 		"uniqueName": "Workers Revolution",
+		"uniqueText": "Farms, Plantation, Mines and Quarries yield an additional +1 to each of their respective stats during a Golden Age",
 		"uniques": ["[+1 Food] from every [Farm] <during a Golden Age>", "[+1 Food] from every [Plantation] <during a Golden Age>", "[+1 Production] from every [Mine] <during a Golden Age>", "[+1 Production] from every [Quarry] <during a Golden Age>"],
 		"cities": ["Moscow","Leningrad","Stalingrad","Kiev","Kharkov","Minsk","Novosibirsk","Sverdlovsk","Nizhny Novgorod","Tbilisi",
 			"Rostov","Odessa","Vladivostok","Sevastopol","Magnitogorsk","Tashkent","Baku","Dnipropetrovsk","Chita","Samara",
@@ -179,7 +183,8 @@
 
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Holy See",
-		"uniques": ["[+100]% unhappiness from the number of cities", "Gain [50] [Faith] <upon constructing [Wonders] [in capital]>", "Allied City-States provide [Faith] equal to [100]% of what they produce for themselves", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold]"],
+		"uniqueText": "Gain 150 [Faith] upon building a Wonder in capital (modified by game speed)\nGain [Gold] when converting cities to your religion and gain additional [Faith] from allied City-States\nDouble unhappiness from the number of cities",
+		"uniques": ["[+100]% unhappiness from the number of cities", "Gain [100] [Faith] <upon constructing [Wonders] [in capital]> <(modified by game speed)>", "Allied City-States provide [Faith] equal to [100]% of what they produce for themselves", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold]"],
 		"cities": ["Rome", "Beneventum", "Ravenna", "Avignon", "Bologna", "Ferrara", "Ascoli", "Piacenza", "Rieti", "Assisi", "Orvieto", "Rimini", "Todi", "Viterbo"]
 	},
 	]
