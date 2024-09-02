@@ -6,7 +6,7 @@
 		"uniqueTo": "Aleksandria",
 		"movement": 2,
 		"strength": 34,
-		"cost": 170,
+		"cost": 180,
 		"requiredTech": "Rifling",
 		"upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Replaceable Parts",
